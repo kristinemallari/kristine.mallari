@@ -42,7 +42,7 @@ Hey there! I'm Kristine Mallari aka bardo, a seasoned [Project Management Profes
 
 ## 👩‍💼 **Volunteering & Leadership**
   <span style="font-size:20px;">
-- 🌐Women in Blockchain Ambassador • New York, NY • 11/2020 - 07/2021
+🌐Women in Blockchain Ambassador • New York, NY • 11/2020 - 07/2021
 
 
 ## 🚀 **SKILLS**🚀
