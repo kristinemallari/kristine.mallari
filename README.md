@@ -13,7 +13,7 @@ Hey there! I'm Kristine Mallari aka bardo, a seasoned [Project Management Profes
 - Contributed to the Wyoming hackathon to create a blockchain voting app [Github Wyvote2020] (https://github.com/bchainify/wyvote2020), creating engaging videos and graphics.
 - Researched and contributed to parts of the white paper→ [Wyvote2020](https://devpost.com/software/wyvote2020-cjaqm2)
 
-📹 Video creation
+📹 *Video creation*
 - How mobile voting using blockchain can empower citizens? → [Video pitch](https://vimeo.com/manage/videos/468403729)
 - User story video content 
 - As a senior citizen, I have the right to vote→ [User Story:Senior Citizen](https://vimeo.com/manage/videos/4679957380)
@@ -25,13 +25,13 @@ Hey there! I'm Kristine Mallari aka bardo, a seasoned [Project Management Profes
 - Created the graphics → [Github Chainvote Graphics](https://github.com/bchainify/chainvote-solana/wiki)
 - Created the video pitch → [Chainvote Corporate Governance Video pitch](https://www.youtube.com/watch?v=KT5GeZ5lXjU)
 
--🐱**Token Meme on NEAR Protocol** → [Project:TokenMeme](https://devfolio.co/projects/token-meme-9c10)
+🐱**Token Meme on NEAR Protocol** → [Project:TokenMeme](https://devfolio.co/projects/token-meme-9c10)
 - Created the video demo and the user story → [Video demo](https://www.youtube.com/watch?v=qaOxv0mNkAw)
 
-🛒-**Market-on-chain on Chainlink**
+🛒**Market-on-chain on Chainlink**
 - Created the user story graphics→[Market-on-chain user story graphics](https://github.com/bchainify/chainlink-supply-chain/wiki)
 
-##- 🌟 **Technical Skills**
+## 🌟 **Technical Skills**
 <span style="font-size:20px;">
 - 💻 Technical Process Understanding: Adept at grasping complex technical processes.
 - 🚀 Execution Excellence: Proven track record of executing technical projects seamlessly.
@@ -39,13 +39,14 @@ Hey there! I'm Kristine Mallari aka bardo, a seasoned [Project Management Profes
 - 🌐 HTML: Currently learning HTML.
 
 
-##- 👩‍💼 **Volunteering & Leadership**
+## 👩‍💼 **Volunteering & Leadership**
   <span style="font-size:20px;">
 - 🌐 Women in Blockchain Ambassador • New York, NY • 11/2020 - 07/2021
 
 
-##- 🚀 **SKILLS**🚀
+## 🚀 **SKILLS**🚀
 <span style="font-size:20px;">
+  
 - 💻 Technical Process Understanding
 - 🚀 Execution Excellence
 - 📽️ Video editing
