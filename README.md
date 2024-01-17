@@ -6,9 +6,10 @@
 Hey there! I'm Kristine Mallari aka bardo, a seasoned [Project Management Professional PMP](https://www.credly.com/badges/f770afea-1516-4b9e-861e-f1f0f3e78580/public_url) with many years of experience in steward leadership. I have a strong inclination towards understanding technical processes and executing them seamlessly. Currently, my focus is on learning HTML to further broaden my skill set. Let me take you through my journey and the exciting projects I've been a part of!
 
 ##🚀 **#Bchainify Projects #MYContributions**
+<span style="font-size:12px;">
 [Github bchainify](https://github.com/bchainify)
 
-###🏆 **Voting app for the Wyoming elections 2020** 
+🏆 **Voting app for the Wyoming elections 2020** 
 -Contributed to the Wyoming hackathon to create a blockchain voting app [Github Wyvote2020] (https://github.com/bchainify/wyvote2020), creating engaging videos and graphics.
 -Researched and contributed to parts of the white paper→ [Wyvote2020](https://devpost.com/software/wyvote2020-cjaqm2)
 
