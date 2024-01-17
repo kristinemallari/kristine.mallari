@@ -15,10 +15,10 @@ Hey there! I'm Kristine Mallari aka bardo, a seasoned [Project Management Profes
 
 📹 *Video creation*
 - How mobile voting using blockchain can empower citizens? → [Video pitch](https://vimeo.com/manage/videos/468403729)
-- User story video content 
-- As a senior citizen, I have the right to vote→ [User Story:Senior Citizen](https://vimeo.com/manage/videos/4679957380)
-- As a person who has worked for the US Army Forces and  been deployed overseas → [User Story:Overseas Military](https://vimeo.com/manage/videos/467997850)
-- As a student who is curious to learn about innovative tech → [User Story:Student](https://vimeo.com/manage/videos/468016083)
+- **User story videos**
+- *As a senior citizen..*→ [User Story:Senior Citizen](https://vimeo.com/manage/videos/4679957380)
+- *As a person who has worked for the US Army Forces and  been deployed overseas...* → [User Story:Overseas Military](https://vimeo.com/manage/videos/467997850)
+- *As a student who is curious to learn about innovative tech* → [User Story:Student](https://vimeo.com/manage/videos/468016083)
 
 🌐 **Corporate Governance on Solana- ChainVote Solana** → [Github Chainvote](https://github.com/bchainify/chainvote-solana/wiki) 
 - ⛓️ Focused on supply chain on the blockchain
