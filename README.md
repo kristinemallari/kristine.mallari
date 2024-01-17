@@ -5,22 +5,22 @@
 
 Hey there! I'm Kristine Mallari aka bardo, a seasoned [Project Management Professional PMP](https://www.credly.com/badges/f770afea-1516-4b9e-861e-f1f0f3e78580/public_url) with many years of experience in steward leadership. I have a strong inclination towards understanding technical processes and executing them seamlessly. Currently, my focus is on learning HTML to further broaden my skill set. Let me take you through my journey and the exciting projects I've been a part of!
 
-##🚀 **#Bchainify Projects #MYContributions**
+🚀 **#Bchainify Projects #MYContributions**
 <span style="font-size:20px;">
 [Github bchainify](https://github.com/bchainify)
 
 🏆 **Voting app for the Wyoming elections 2020** 
--Contributed to the Wyoming hackathon to create a blockchain voting app [Github Wyvote2020] (https://github.com/bchainify/wyvote2020), creating engaging videos and graphics.
--Researched and contributed to parts of the white paper→ [Wyvote2020](https://devpost.com/software/wyvote2020-cjaqm2)
+- Contributed to the Wyoming hackathon to create a blockchain voting app [Github Wyvote2020] (https://github.com/bchainify/wyvote2020), creating engaging videos and graphics.
+- Researched and contributed to parts of the white paper→ [Wyvote2020](https://devpost.com/software/wyvote2020-cjaqm2)
 
--📹 Video creation
+📹 Video creation
 --How mobile voting using blockchain can empower citizens? → [Video pitch](https://vimeo.com/manage/videos/468403729)
 -User story video content 
 -As a senior citizen, I have the right to vote→ [User Story:Senior Citizen](https://vimeo.com/manage/videos/4679957380)
 -As a person who has worked for the US Army Forces and  been deployed overseas → [User Story:Overseas Military](https://vimeo.com/manage/videos/467997850)
 -As a student who is curious to learn about innovative tech → [User Story:Student](https://vimeo.com/manage/videos/468016083)
 
-###-🌐**Corporate Governance on Solana- ChainVote Solana** → [Github Chainvote](https://github.com/bchainify/chainvote-solana/wiki) ( ⛓️ Focused on supply chain on the blockchain)
+🌐**Corporate Governance on Solana- ChainVote Solana** → [Github Chainvote](https://github.com/bchainify/chainvote-solana/wiki) ( ⛓️ Focused on supply chain on the blockchain)
 -Created the graphics → [Github Chainvote Graphics](https://github.com/bchainify/chainvote-solana/wiki)
 -Created the video pitch → [Chainvote Corporate Governance Video pitch](https://www.youtube.com/watch?v=KT5GeZ5lXjU)
 
