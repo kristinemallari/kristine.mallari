@@ -20,7 +20,7 @@ Hey there! I'm Kristine Mallari aka bardo, a seasoned [Project Management Profes
 - As a person who has worked for the US Army Forces and  been deployed overseas → [User Story:Overseas Military](https://vimeo.com/manage/videos/467997850)
 - As a student who is curious to learn about innovative tech → [User Story:Student](https://vimeo.com/manage/videos/468016083)
 
-🌐**Corporate Governance on Solana- ChainVote Solana** → [Github Chainvote](https://github.com/bchainify/chainvote-solana/wiki) 
+🌐 **Corporate Governance on Solana- ChainVote Solana** → [Github Chainvote](https://github.com/bchainify/chainvote-solana/wiki) 
 - ⛓️ Focused on supply chain on the blockchain
 - Created the graphics → [Github Chainvote Graphics](https://github.com/bchainify/chainvote-solana/wiki)
 - Created the video pitch → [Chainvote Corporate Governance Video pitch](https://www.youtube.com/watch?v=KT5GeZ5lXjU)
