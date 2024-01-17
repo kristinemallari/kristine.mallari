@@ -3,7 +3,7 @@
 # Welcome to My GitHub Profile 👋
 <span style="font-size:20px;">
 
-Hey there! I'm Kristine Mallari aka bardo, a seasoned [Project Management Professional PMP]<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f770afea-1516-4b9e-861e-f1f0f3e78580" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> with many years of experience in steward leadership. I have a strong inclination towards understanding technical processes and executing them seamlessly. Currently, my focus is on learning HTML to further broaden my skill set. Let me take you through my journey and the exciting projects I've been a part of!
+Hey there! I'm Kristine Mallari aka bardo, a seasoned [Project Management Professional PMP](https://www.credly.com/badges/f770afea-1516-4b9e-861e-f1f0f3e78580/public_url) with many years of experience in steward leadership. I have a strong inclination towards understanding technical processes and executing them seamlessly. Currently, my focus is on learning HTML to further broaden my skill set. Let me take you through my journey and the exciting projects I've been a part of!
 
 ##🚀 **#Bchainify Projects #MYContributions**
 [Github bchainify](https://github.com/bchainify)
