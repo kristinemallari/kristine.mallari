@@ -33,15 +33,16 @@ Hey there! I'm Kristine Mallari aka bardo, a seasoned [Project Management Profes
 
 ## 🌟 **Technical Skills**
 <span style="font-size:20px;">
-- 💻 Technical Process Understanding: Adept at grasping complex technical processes.
-- 🚀 Execution Excellence: Proven track record of executing technical projects seamlessly.
-- 🐍 Python: Currently learning Python.
-- 🌐 HTML: Currently learning HTML.
+  
+- 💻Technical Process Understanding: Adept at grasping complex technical processes.
+- 🚀Execution Excellence: Proven track record of executing technical projects seamlessly.
+- 🐍Python: Currently learning Python.
+- 🌐HTML: Currently learning HTML.
 
 
 ## 👩‍💼 **Volunteering & Leadership**
   <span style="font-size:20px;">
-- 🌐 Women in Blockchain Ambassador • New York, NY • 11/2020 - 07/2021
+- 🌐Women in Blockchain Ambassador • New York, NY • 11/2020 - 07/2021
 
 
 ## 🚀 **SKILLS**🚀
