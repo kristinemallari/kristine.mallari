@@ -15,7 +15,7 @@ Hey there! I'm Kristine Mallari aka bardo, a seasoned [Project Management Profes
 
 📹 *Video creation*
 - How mobile voting using blockchain can empower citizens? → [Video pitch](https://vimeo.com/manage/videos/468403729)
-**USER STORY VIDEO CLIPS**
+- **USER STORY VIDEO CLIPS**
 - *As a senior citizen,who wants accessibility to vote*...→ [User Story:Senior Citizen](https://vimeo.com/manage/videos/4679957380)
 - *As a person who has worked for the US Armed Forces, who has been deployed overseas...* → [User Story:Overseas Military](https://vimeo.com/manage/videos/467997850)
 - *As a student, who is curious to learn about innovative tech* → [User Story:Student](https://vimeo.com/manage/videos/468016083)
