@@ -3,7 +3,7 @@
 # 🚀 🔗 📊 💻 🔄 🚀
 <span style="font-size:80px;">
 
-Hey there! I'm Kristine Mallari aka bardo, a seasoned [Project Management Professional PMP](https://www.credly.com/badges/f770afea-1516-4b9e-861e-f1f0f3e78580/public_url) with many years of experience in steward leadership. I have a strong inclination towards understanding technical processes and executing them seamlessly. Currently, my focus is on learning HTML to further broaden my skill set. Let me take you through my journey and the exciting projects I've been a part of!
+Hey there! I'm Kristine Mallari aka bardo, a seasoned [Project Management Professional PMP](https://www.credly.com/badges/f770afea-1516-4b9e-861e-f1f0f3e78580/public_url) with many years of experience in steward leadership. I have a strong inclination towards understanding technical processes and executing them seamlessly. Let me take you through my journey and the exciting projects I've been a part of!
 
 ## 🚀 **#Bchainify Projects #contributions** [bchainify](https://github.com/bchainify)
 <span style="font-size:20px;">
@@ -16,9 +16,9 @@ Hey there! I'm Kristine Mallari aka bardo, a seasoned [Project Management Profes
 📹 *Video creation*
 - How mobile voting using blockchain can empower citizens? → [Video pitch](https://vimeo.com/manage/videos/468403729)
 - **User story videos**
-- *As a senior citizen..*→ [User Story:Senior Citizen](https://vimeo.com/manage/videos/4679957380)
-- *As a person who has worked for the US Army Forces and  been deployed overseas...* → [User Story:Overseas Military](https://vimeo.com/manage/videos/467997850)
-- *As a student who is curious to learn about innovative tech* → [User Story:Student](https://vimeo.com/manage/videos/468016083)
+- *As a senior citizen,who wants accessibility to vote*...→ [User Story:Senior Citizen](https://vimeo.com/manage/videos/4679957380)
+- *As a person who has worked for the US Armed Forces, who has been deployed overseas...* → [User Story:Overseas Military](https://vimeo.com/manage/videos/467997850)
+- *As a student, who is curious to learn about innovative tech* → [User Story:Student](https://vimeo.com/manage/videos/468016083)
 
 🌐 **Corporate Governance on Solana- ChainVote Solana** → [Github Chainvote](https://github.com/bchainify/chainvote-solana/wiki) 
 - ⛓️ Focused on supply chain on the blockchain
@@ -36,8 +36,7 @@ Hey there! I'm Kristine Mallari aka bardo, a seasoned [Project Management Profes
   
 - 💻Technical Process Understanding: Adept at grasping complex technical processes.
 - 🚀Execution Excellence: Proven track record of executing technical projects seamlessly.
-- 🐍Python: Currently learning Python.
-- 🌐HTML: Currently learning HTML.
+
 
 
 ## 👩‍💼 **Volunteering & Leadership**
@@ -51,12 +50,10 @@ Hey there! I'm Kristine Mallari aka bardo, a seasoned [Project Management Profes
 - 💻 Technical Process Understanding
 - 🚀 Execution Excellence
 - 📽️ Video editing
-- 🌐 HTML
-- 🃏 Discord
 - 📊 Data Driven
 - 📆 Asana, Jira, Airtable, GSuite, Microsoft Office
 - 🤔 Problem Solving
 - 📈 Project Management
 - 🤝 Stakeholder Engagement
-- 🎯 Strategy
+
 
